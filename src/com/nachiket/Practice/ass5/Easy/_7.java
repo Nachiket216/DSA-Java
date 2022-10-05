@@ -1,4 +1,4 @@
-package com.nachiket.Practice.ass5;
+package com.nachiket.Practice.ass5.Easy;
 
 public class _7 {
     public static void main(String[] args) {

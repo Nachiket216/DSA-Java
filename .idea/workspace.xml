@@ -11,6 +11,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -95,13 +96,13 @@
       <recent name="C:\Users\AAAAA\Desktop\Coading and Web D\DSA(java)" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._8 (1)">
-    <configuration name="_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nachiket.Practice.ass5._4" />
+  <component name="RunManager" selected="Application._17">
+    <configuration name="_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nachiket.Practice.ass5.Easy._12" />
       <module name="DSA(java)" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.nachiket.Practice.ass5.*" />
+          <option name="PATTERN" value="com.nachiket.Practice.ass5.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nachiket.Practice.ass5._5" />
+    <configuration name="_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nachiket.Practice.ass5.Easy._13" />
       <module name="DSA(java)" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.nachiket.Practice.ass5.*" />
+          <option name="PATTERN" value="com.nachiket.Practice.ass5.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nachiket.Practice.ass5._6" />
+    <configuration name="_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nachiket.Practice.ass5.Easy._15" />
       <module name="DSA(java)" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.nachiket.Practice.ass5.*" />
+          <option name="PATTERN" value="com.nachiket.Practice.ass5.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_7 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nachiket.Practice.ass5._7" />
+    <configuration name="_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nachiket.Practice.ass5.Easy._16" />
       <module name="DSA(java)" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.nachiket.Practice.ass5.*" />
+          <option name="PATTERN" value="com.nachiket.Practice.ass5.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_8 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nachiket.Practice.ass5._8" />
+    <configuration name="_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nachiket.Practice.ass5.Easy._17" />
       <module name="DSA(java)" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.nachiket.Practice.ass5.*" />
+          <option name="PATTERN" value="com.nachiket.Practice.ass5.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._8 (1)" />
-        <item itemvalue="Application._7 (1)" />
-        <item itemvalue="Application._6" />
-        <item itemvalue="Application._5" />
-        <item itemvalue="Application._4" />
+        <item itemvalue="Application._17" />
+        <item itemvalue="Application._16" />
+        <item itemvalue="Application._15" />
+        <item itemvalue="Application._13" />
+        <item itemvalue="Application._12" />
       </list>
     </recent_temporary>
   </component>

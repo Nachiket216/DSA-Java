@@ -1,4 +1,4 @@
-package com.nachiket.Practice.ass5;
+package com.nachiket.Practice.ass5.Easy;
 
 import java.util.Arrays;
 
