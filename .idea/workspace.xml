@@ -88,21 +88,29 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../trial/DSA-Java-" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\AAAAA\Desktop\Coading and Web D\DSA(java)" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.nachiket.All_Concepts.Sorting_algo" />
+      <recent name="com.nachiket.All_Concepts.Searching_algo" />
+      <recent name="com.nachiket.All_Concepts" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.nachiket.All_Concepts" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application._17">
-    <configuration name="_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nachiket.Practice.ass5.Easy._12" />
+  <component name="RunManager" selected="Application._3BubbleSort">
+    <configuration name="First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nachiket.Practice2.First" />
       <module name="DSA(java)" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.nachiket.Practice.ass5.Easy.*" />
+          <option name="PATTERN" value="com.nachiket.Practice2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nachiket.Practice.ass5.Easy._13" />
+    <configuration name="_2binary_search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nachiket.All_Concepts.Searching_algo._2binary_search" />
       <module name="DSA(java)" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.nachiket.Practice.ass5.Easy.*" />
+          <option name="PATTERN" value="com.nachiket.All_Concepts.Searching_algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nachiket.Practice.ass5.Easy._15" />
+    <configuration name="_3BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nachiket.All_Concepts.Sorting_algo._3BubbleSort" />
       <module name="DSA(java)" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.nachiket.Practice.ass5.Easy.*" />
+          <option name="PATTERN" value="com.nachiket.All_Concepts.Searching_algo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nachiket.Practice.ass5.Easy._16" />
+    <configuration name="_433" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nachiket.A_LeetCode_Daily_Challenge._433" />
       <module name="DSA(java)" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.nachiket.Practice.ass5.Easy.*" />
+          <option name="PATTERN" value="com.nachiket.A_LeetCode_Daily_Challenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.nachiket.Practice.ass5.Easy._17" />
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nachiket.Practice.ass6_searching.Easy.demo" />
       <module name="DSA(java)" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.nachiket.Practice.ass5.Easy.*" />
+          <option name="PATTERN" value="com.nachiket.Practice.ass6_searching.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._17" />
-        <item itemvalue="Application._16" />
-        <item itemvalue="Application._15" />
-        <item itemvalue="Application._13" />
-        <item itemvalue="Application._12" />
+        <item itemvalue="Application._3BubbleSort" />
+        <item itemvalue="Application._2binary_search" />
+        <item itemvalue="Application.First" />
+        <item itemvalue="Application.demo" />
+        <item itemvalue="Application._433" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +192,16 @@
           <properties class="java.util.InputMismatchException" package="java.util" />
           <option name="timeStamp" value="7" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/out/production/DSA(java)/com/nachiket/dsa9/Fibonacchi.class</url>
+          <line>1</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

@@ -1,6 +1,6 @@
-package com.nachiket.Practice;
+package com.nachiket.All_Concepts.Searching_algo;
 
-public class LinearSearch {
+public class _1LinearSearch {
     public static void main(String[] args) {
         int[] arr={2,3,5,6,7,8,10,11,12,15,20,23,30};
         int target = 3;
